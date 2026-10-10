@@ -14,12 +14,12 @@
     "dev": "node main.js",
     "start": "node main.js",
     "build": "node --check main.js",
-    "lint": "node --check main.js && node --check lib/handler.js && node --check lib/webServer.js && node --check lib/telegramBot.js && node --check lib/sessionManager.js && node --check lib/setti[...]"
+    "lint": "node --check main.js && node --check lib/handler.js && node --check lib/webServer.js && node --check lib/telegramBot.js && node --check lib/sessionManager.js && node --check lib/settings.js && node --check lib/ai.js"
   },
   "author": "Chinedu-MD",
   "license": "MIT",
   "dependencies": {
-    "baileys": "npm:@whiskeysockets/baileys@6.2.17",
+    "baileys": "npm:@whiskeysockets/baileys@latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^5.1.0",
     "@hapi/boom": "^10.0.1",
