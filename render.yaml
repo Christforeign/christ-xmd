@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: christ-x-md
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: BOT_NAME
+        value: CHRIST-X-MD
+      - key: OWNER_NUMBER
+        value: 50937081286
+      - key: OWNER_NAME
+        value: Christ Foreign

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  christ-x-md:
+    build: .
+    container_name: christ-x-md
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - BOT_NAME=CHRIST-X-MD
+      - OWNER_NUMBER=50937081286
+      - OWNER_NAME=Christ Foreign
+    volumes:
+      - ./session:/app/session
+      - ./database:/app/database

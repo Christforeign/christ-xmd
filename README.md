@@ -1,100 +1,50 @@
 <p align="center">
-  <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
-    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
-    </p>
-<h1 align="center">ELITE-PRO-V1</h1>
-<p align="center"> 
-    </p>
+  <img alt="CHRIST-X-MD" width="220" src="https://raw.githubusercontent.com/Cyrilix-XMD/ELITEPRO-URL-CLOUD/main/20250328_045427.jpg" style="border-radius: 50%;"> 
+</p>
+<h1 align="center">👑 CHRIST-X-MD (V1) 👑</h1>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <b>Le Bot WhatsApp Multi-Device Ultime & Cloud Portal</b><br>
+  <i>Développé par <b>Christ Foreign</b> (+50937081286)</i>
 </p>
-      
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
-   
- ---
 
-## DEPLOYMENT METHODS
-
-- Click on **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
-- Click here to get **[SESSION_ID 1](https://elitepro-session-id1.onrender.com) OR [SESSION-ID 2](https://elitepro-session-id2.onrender.com/)**
-- Uploading session_id (Creds.json) in session folder.
-- Edit Config.js or .env to your Choice.
-
----
-
-## FOR PANEL DEPLOYMENT
-
-- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
-- Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
-- Create a server
-- Upload zip file 🗃️ 
-- Start server
----
-
-## OTHER DEPLOYMENT PLATFORMS
-- **[Render](https://render.com)**
-- **[Katabump](https://dashboard.katabump.com/auth/login)**
-- **[Optiklink](https://optiklink.com/)**
-
----
-
-## FOR TERMUX/SSH/UBUNTU
-```
-Before inputting these commands in termux... You have to extract the bot file in your internal storage. (Downloads folder)
-
-apt update && apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-pkg install yarn
-termux-setup-storage
-cd /storage/emulated/0/Download/ELITE-PRO-V1-main
-yarn install
-npm start
-```
----
-
-## FOR STARTING TERMUX AGAIN
-```
-cd /storage/emulated/0/Download/ELITE-PRO-V1-main
-npm start
-```
----
-
-## FOR 24/7 ACTIVATION TERMUX/SSH/UBUNTU
-```
-bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-Paste this after the installation
-```
----
-
-<p align="Left">
-    <a align="center">
-  <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
-</a>
-<a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
-    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/Christforeign/MR-CHRIST-X-BOT-MD-V1">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/50937081286">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
-  ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
+## ✨ NOUVELLES FONCTIONNALITÉS CLÉS
 
- --- 
-- Star ⭐ repo if you like this bot.
+- 🌐 **Tableau de Bord Web Admin en Direct :**
+  - Modifier le nom du bot, numéro owner, préfixe et mode sans toucher au code.
+  - **Ajout de Commandes & Scripts JS en Direct** : Crée de nouvelles commandes WhatsApp depuis l'interface web sans redémarrage !
+  - **Styles de Banderoles ASCII Personnalisables** : Cyber, Classic, Gothic, Neon ou ton propre texte ASCII.
+  - **Médias pour le `.menu`** : Choisis Photo, Vidéo ou Les deux en rotation aléatoire !
+- 📱 **Multi-Sessions (Supporte jusqu'à 50 logins) :**
+  - Chaque utilisateur peut entrer son numéro WhatsApp sur le site web ou sur Telegram et obtenir un **Pairing Code** en 8 chiffres (pas besoin de scanner de QR code).
+- ✈️ **Bot Telegram Intégré :**
+  - Connecte ton Token Telegram dans l'admin, et tes utilisateurs peuvent lier leur WhatsApp avec `/pair <numéro>` directement depuis Telegram !
+- 🌍 **Multi-Langues :**
+  - 🇫🇷 Français (`fr`)
+  - 🇬🇧 Anglais (`en`)
+  - 🇪🇸 Espagnol (`es`)
+  - 🇭🇹 Créole Haïtien (`ht`)
+- 🚀 **Polyvalence Maximale pour le Déploiement :**
+  - Render.com, Koyeb.com, Railway.app, Katabump, Bot-Hosting, Oracle Cloud, Fly.io, Heroku, Docker, Termux.
+
+---
+
+## 🚀 DÉPLOIEMENT EN 1 CLIC SUR RENDER.COM
+1. Fork ce dépôt sur ton compte GitHub.
+2. Va sur [Render.com](https://render.com) > **New Web Service**.
+3. Sélectionne ton dépôt `MR-CHRIST-X-BOT-MD-V1`.
+4. Règle `Build Command` : `npm install` et `Start Command` : `npm start`.
+5. Règle la variable d'environnement `OWNER_NUMBER` = `50937081286`.
+6. Clique sur **Deploy** !
+
+Pour les autres hébergeurs (Koyeb, Railway, Katabump, Oracle, Termux), consulte le fichier **[DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md)**.

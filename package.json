@@ -11,7 +11,10 @@
     "media": "media"
   },
   "scripts": {
-    "start": "node index.js"
+    "dev": "node main.js",
+    "start": "node main.js",
+    "build": "node --check main.js",
+    "lint": "node --check main.js && node --check lib/handler.js && node --check lib/webServer.js && node --check lib/telegramBot.js && node --check lib/sessionManager.js && node --check lib/settings.js"
   },
   "author": "Chinedu-MD",
   "license": "MIT",
