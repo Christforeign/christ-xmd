@@ -19,7 +19,7 @@
   "author": "Chinedu-MD",
   "license": "MIT",
   "dependencies": {
-    "baileys": "npm:@whiskeysockets/baileys@latest",
+    "baileys": "npm:@whiskeysockets/baileys@6.2.17",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^5.1.0",
     "@hapi/boom": "^10.0.1",
