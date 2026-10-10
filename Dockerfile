@@ -10,7 +10,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 COPY package*.json ./
-RUN npm install --legacy-peer-deps
+RUN git config --global url."https://github.com/".insteadOf ssh://git@github.com/ \
+ && git config --global --add url."https://github.com/".insteadOf git@github.com: \
+ && git config --global --add url."https://github.com/".insteadOf git+ssh://git@github.com/ \
+ && npm install --legacy-peer-deps
 
 COPY . .
 
